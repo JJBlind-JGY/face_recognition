@@ -63,3 +63,7 @@ target/
 .python-version
 
 .idea/
+
+# folder for storing results of tests, demos, etc. (not source code)
+.results/
+.stream_result.jpg
