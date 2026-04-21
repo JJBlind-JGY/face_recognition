@@ -65,5 +65,5 @@ target/
 .idea/
 
 # folder for storing results of tests, demos, etc. (not source code)
-.results/
-.stream_result.jpg
+results/
+stream_result.jpg
